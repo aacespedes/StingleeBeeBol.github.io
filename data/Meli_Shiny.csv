@@ -1,19 +1,19 @@
-Genera;Species;Autor;Department;Province;Municipal;Location;Year;Colector;Collection;Latitude;Longitude;Lat;Long;High;Fount_Geo;Ecoregion;SubEco;References;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Abel Iturralde;San Buenaaventura;Tumupasa;1922;W.M. Mann;;-14.1527035;-67.8977206;"14°9'9.73""S";"67°53'51.79""W";598;Geo;Sudoeste de la Amazonía;BASu;Schwarz, 1948;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;Schwarz, 1948;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;Vaca Díez;Riberalta;Santa Rosa del Ivon;1922;W.M. Mann;;-11.2296214;-66.1357695;"11°13'46.63""S";"66°8'8.77""W";150;Geo;Sudoeste de la Amazonía;BAPa;Schwarz, 1948;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Larecaja;Teoponte;Uyapi;;;;-15.4166647;-67.7666545;"15°24'59.99""S";"67°45'59.95""W";1158;Original;Yungas;YUN;GBIF;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;Yacuma;Santa Ana;Beni Biological Station, approx 40 km NE of San Borja, Palm Camp;1988;;Snow Entomological Museum Collection;-14.6399064;-66.3005342;"14°38'23.66""S";"66°18'1.92""W";180;Original;Sudoeste de la Amazonía;BAPr;GBIF;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Abel Iturralde;Ixiamas;Santa Fe;2005;;;-13.7682110;-68.1272856;"13°46'5.55""S";"68°7'38.22""W";262;Geo;Cerrado;CePac;Tejada, 2006;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Abel Iturralde;Ixiamas;Santa Pedro;2005;;;-13.7318369;-68.0084428;"13°43'54.61""S";"68°0'30.39""W";237;Geo;Cerrado;CePac;Tejada, 2006;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;Cercado;San Javier;Sirionó (Ibiato y Pata de Águila);2018;Townsend;;-14.8302131;-64.4495717;"14°49'48.76""S";"64°26'58.45""W";167;Geo;Sabanas Inundables;SILM;Townsend et al., 2021;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Ñuflo de Chávez;Concepción;Lomerío (San Antonio de Lomerio);2018;Townsend;;-16.7682967;-61.8102462;"16°46'5.86""S";"61°48'36.88""W";395;Geo;Cerrado;CeChi;Townsend et al., 2021;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Cochabamba;Carrasco;Chimore;Rio Chimore (Miison Francisca del Colegio Apostólico de Tarata);1900;Wolfgang Priewasser;;-16.9930720;-65.1504048;"16°59'35.05""S";"65°9'1.45""W";243;Geo;Sudoeste de la Amazonía;BAPr;Schwarz, 1948;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Ñuflo de Chávez;Concepción;Alta Vista;2020;;;-16.0975833;-61.8910278;"16°5'51.29""S";"61°53'27.7""W";410;Original;Bosque Seco Chiquitano;BSChi;FCBC, 2021;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Tarija;Gran Chaco;Villa Montes;ADACHACO (Aguaray, Capirenda, Chimeo, Tahiguati, Tarairí, Tiguipa y Tucainti);2009;;;-21.3009272;-63.4325380;"21°18'3.33""S";"63°25'57.13""W";377;Geo;Gran Chaco;Gcha;Clemente & Lahore, 2010;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Ñuflo de Chávez;Concepción;Alta Vista;2021;;;-16.0975833;-61.8910278;"16°5'51.29""S";"61°53'27.7""W";410;Original;Bosque Seco Chiquitano;BSChi;FCBC, 2021;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Andrés Ibáñez;La Guardia;;1968;Kempff, N.M.;;-18.0154180;-63.0295370;"18°0'55.5""S";"63°1'46.33""W";373;Geo;Gran Chaco;Gcha;Kempff, 1968;;;;;;;;
-Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Cochabamba;Carrasco;Chimore;Chimore;2021;Cespedes-Llave A.A.;IEB-LAB;-16.995864;-65.149222;"16°59'45.11""S";"65°8'57.19""W";246;Original;Sudoeste de la Amazonía;BAPr;CBC-IEB-USFX;;;;;;;;
+Genera;Species;Autor;Department;Province;Municipal;Location;Year;Colector;Collection;Latitude;Longitude;Lat;Long;High;Fount_Geo;Ecoregion;SubEco;References
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Abel Iturralde;San Buenaaventura;Tumupasa;1922;W.M. Mann;;-14.1527035;-67.8977206;"14°9'9.73""S";"67°53'51.79""W";598;Geo;Sudoeste de la Amazonía;BASu;Schwarz, 1948
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;Schwarz, 1948
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;Vaca Díez;Riberalta;Santa Rosa del Ivon;1922;W.M. Mann;;-11.2296214;-66.1357695;"11°13'46.63""S";"66°8'8.77""W";150;Geo;Sudoeste de la Amazonía;BAPa;Schwarz, 1948
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Larecaja;Teoponte;Uyapi;;;;-15.4166647;-67.7666545;"15°24'59.99""S";"67°45'59.95""W";1158;Original;Yungas;YUN;GBIF
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;Yacuma;Santa Ana;Beni Biological Station, approx 40 km NE of San Borja, Palm Camp;1988;;Snow Entomological Museum Collection;-14.6399064;-66.3005342;"14°38'23.66""S";"66°18'1.92""W";180;Original;Sudoeste de la Amazonía;BAPr;GBIF
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Abel Iturralde;Ixiamas;Santa Fe;2005;;;-13.7682110;-68.1272856;"13°46'5.55""S";"68°7'38.22""W";262;Geo;Cerrado;CePac;Tejada, 2006
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);La Paz;Abel Iturralde;Ixiamas;Santa Pedro;2005;;;-13.7318369;-68.0084428;"13°43'54.61""S";"68°0'30.39""W";237;Geo;Cerrado;CePac;Tejada, 2006
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Beni ;Cercado;San Javier;Sirionó (Ibiato y Pata de Águila);2018;Townsend;;-14.8302131;-64.4495717;"14°49'48.76""S";"64°26'58.45""W";167;Geo;Sabanas Inundables;SILM;Townsend et al., 2021
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Ñuflo de Chávez;Concepción;Lomerío (San Antonio de Lomerio);2018;Townsend;;-16.7682967;-61.8102462;"16°46'5.86""S";"61°48'36.88""W";395;Geo;Cerrado;CeChi;Townsend et al., 2021
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Cochabamba;Carrasco;Chimore;Rio Chimore (Miison Francisca del Colegio Apostólico de Tarata);1900;Wolfgang Priewasser;;-16.9930720;-65.1504048;"16°59'35.05""S";"65°9'1.45""W";243;Geo;Sudoeste de la Amazonía;BAPr;Schwarz, 1948
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Ñuflo de Chávez;Concepción;Alta Vista;2020;;;-16.0975833;-61.8910278;"16°5'51.29""S";"61°53'27.7""W";410;Original;Bosque Seco Chiquitano;BSChi;FCBC, 2021
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Tarija;Gran Chaco;Villa Montes;ADACHACO (Aguaray, Capirenda, Chimeo, Tahiguati, Tarairí, Tiguipa y Tucainti);2009;;;-21.3009272;-63.4325380;"21°18'3.33""S";"63°25'57.13""W";377;Geo;Gran Chaco;Gcha;Clemente & Lahore, 2010
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Ñuflo de Chávez;Concepción;Alta Vista;2021;;;-16.0975833;-61.8910278;"16°5'51.29""S";"61°53'27.7""W";410;Original;Bosque Seco Chiquitano;BSChi;FCBC, 2021
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Santa Cruz;Andrés Ibáñez;La Guardia;;1968;Kempff, N.M.;;-18.0154180;-63.0295370;"18°0'55.5""S";"63°1'46.33""W";373;Geo;Gran Chaco;Gcha;Kempff, 1968
+Cephalotrigona ;Cephalotrigona capitata ;(Smith, 1854);Cochabamba;Carrasco;Chimore;Chimore;2021;Cespedes-Llave A.A.;IEB-LAB;-16.995864;-65.149222;"16°59'45.11""S";"65°8'57.19""W";246;Original;Sudoeste de la Amazonía;BAPr;CBC-IEB-USFX
 Cephalotrigona ;Cephalotrigona femorata ;(Smith, 1854);La Paz;Abel Iturralde;San Buenaventura;Tumupasa;1922;W.M. Mann;;-14.1527035;-67.8977206;"14°9'9.73""S";"67°53'51.79""W";598;Geo;Sudoeste de la Amazonía;BASu;Schwarz, 1948;;;;;;;;
 Cephalotrigona ;Cephalotrigona femorata ;(Smith, 1854);Beni ;Vaca Díez;Riberalta;Santa Rosa del Ivon;1922;W.M. Mann;;-11.2296214;-66.1357695;"11°13'46.63""S";"66°8'8.77""W";150;Geo;Sudoeste de la Amazonía;BAPa;Schwarz, 1948;;;;;;;;
 Cephalotrigona ;Cephalotrigona femorata ;(Smith, 1854);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;Schwarz, 1948;;;;;;;;
@@ -603,219 +603,15 @@ Trigonisca;Trigonisca (Leurotrigona) gracilis; Pedro & Camargo 2009;Beni ;Iténe
 Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);Santa Cruz;Andrés Ibáñez;Santa Cruz de la Sierra;;1952;Kempff, N.M.;;-17.79985112;-63.1666593;"17°47'59.46""S";"63°9'59.97""W";416;Geo;Gran Chaco;Gcha;Kempff, 1968;;;;;;;;
 Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);La Paz;Larecaja;Mapiri;Mapiri, 5 km W;2001;F.D. Parker;;-15.30386;-68.28927;"15°18'13.89""S";"68°17'21.37""W";700;Geo-C;Yungas;YUN;GBIF;;;;;;;;
 Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);La Paz;Sur Yungas;Yanacachi;La Paz, 2 km E Puente Villa;2001;F.D. Parker;;-16.396375;-67.627838;"16°23'46.94""S";"67°37'40.21""W";1246;Geo-C;Bosques Secos Interandinos;BSIn;GBIF;;;;;;;;
-Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);La Paz;Larecaja;Mapiri;;2001;F.D. Parker;;-15.2589;-68.1593;"15°15'32.04""S";"68°9'33.48""W";;Geo-C;Yungas;YUN;GBIF;;;;;;;;
-Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);La Paz;Caranavi;Caranavi;Canaravi, 20 km S, San Silverstrio;2001;F.D. Parker;;-15.93838329;-67.51970114;"15°56'18.17""S";"67°31'10.92""W";1193;Geo-C;Yungas;YUN;GBIF;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) browni ;Camargo & Pedro, 2005;La Paz;Larecaja;Mapiri;Arroyo Tuhiri;2004;H.Hauser;MUSM;-15.2905556;-68.2627778;"15°17'25.99""S";"68°15'45.99""W";771;Original;Yungas;YUN;Camargo & Pedro, 2005;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) browni ;Camargo & Pedro, 2005;Beni ;Marbán;Loreto;Loreto;1962;Kempff, N.M.;DZUP;-15.1047277;-65.0237253;"15°6'17.01""S";"65°1'25.41""W";163;Geo;Sudoeste de la Amazonía;BAIn;Camargo & Pedro, 2005;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) duckei ;(Friese, 1900);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;Schwarz, 1838;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) intermedia ;Moure, 1990;Santa Cruz;Ñuflo de Chávez;Concepción;Lomerío (San Antonio de Lomerio);2018;Townsend;;-16.7682967;-61.8102462;"16°46'5.86""S";"61°48'36.88""W";395;Geo;Cerrado;CeChi;Townsend et al., 2021;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) intermedia ;Moure, 1990;Chuquisaca;Oropeza;Sucre;Monteroyoc (Carretera);2021;Cespedes-Llave A.A.;IEB-LAB;-18.7300940;-65.1585290;"18°43'48.33""S";"65°9'30.7""W";1700;Original;Bosques Secos Interandinos;BSIn;CBC-IEB-USFX;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) longitarsis ;(Ducke, 1916);La Paz;Larecaja;Mapiri;;;;;-15.25001907;-68.16670513;"15°15'0.06""S";"68°10'0.13""W";862;Geo;Yungas;YUN;Camargo, 1988;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) pediculana ;(Fabricius, 1804);La Paz;Larecaja;Mapiri;;;;;-15.310739;-68.216949;"15°18'38.66""S";"68°13'1.01""W";636;Geo;Yungas;YUN;Camargo, 1988;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) pediculana ;(Fabricius, 1804);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;De Albuquerque & Camargo, 2007;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) vitrifrons ;Albuquerque & Camargo, 2007;Santa Cruz;Ñuflo de Chávez;Concepción;Lomerío (San Antonio de Lomerio);2018;Townsend;;-16.7682967;-61.8102462;"16°46'5.86""S";"61°48'36.88""W";395;Geo;Cerrado;CeChi;Townsend et al., 2021;;;;;;;;
-Trigonisca;Trigonisca (Trigonisca) vitrifrons ;Albuquerque & Camargo, 2007;Cochabamba;Carrasco;Chimore;Chimore;2021;Cespedes-Llave A.A.;IEB-LAB;-16.995864;-65.149222;"16°59'45.11""S";"65°8'57.19""W";246;Original;Sudoeste de la Amazonía;BAPr;CBC-IEB-USFX;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;
+Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);La Paz;Larecaja;Mapiri;;2001;F.D. Parker;;-15.2589;-68.1593;"15°15'32.04""S";"68°9'33.48""W";;Geo-C;Yungas;YUN;GBIF
+Trigonisca;Trigonisca (Leurotrigona) muelleri ;(Friese, 1900);La Paz;Caranavi;Caranavi;Canaravi, 20 km S, San Silverstrio;2001;F.D. Parker;;-15.93838329;-67.51970114;"15°56'18.17""S";"67°31'10.92""W";1193;Geo-C;Yungas;YUN;GBIF
+Trigonisca;Trigonisca (Trigonisca) browni ;Camargo & Pedro, 2005;La Paz;Larecaja;Mapiri;Arroyo Tuhiri;2004;H.Hauser;MUSM;-15.2905556;-68.2627778;"15°17'25.99""S";"68°15'45.99""W";771;Original;Yungas;YUN;Camargo & Pedro, 2005
+Trigonisca;Trigonisca (Trigonisca) browni ;Camargo & Pedro, 2005;Beni ;Marbán;Loreto;Loreto;1962;Kempff, N.M.;DZUP;-15.1047277;-65.0237253;"15°6'17.01""S";"65°1'25.41""W";163;Geo;Sudoeste de la Amazonía;BAIn;Camargo & Pedro, 2005
+Trigonisca;Trigonisca (Trigonisca) duckei ;(Friese, 1900);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;Schwarz, 1838
+Trigonisca;Trigonisca (Trigonisca) intermedia ;Moure, 1990;Santa Cruz;Ñuflo de Chávez;Concepción;Lomerío (San Antonio de Lomerio);2018;Townsend;;-16.7682967;-61.8102462;"16°46'5.86""S";"61°48'36.88""W";395;Geo;Cerrado;CeChi;Townsend et al., 2021
+Trigonisca;Trigonisca (Trigonisca) intermedia ;Moure, 1990;Chuquisaca;Oropeza;Sucre;Monteroyoc (Carretera);2021;Cespedes-Llave A.A.;IEB-LAB;-18.7300940;-65.1585290;"18°43'48.33""S";"65°9'30.7""W";1700;Original;Bosques Secos Interandinos;BSIn;CBC-IEB-USFX
+Trigonisca;Trigonisca (Trigonisca) longitarsis ;(Ducke, 1916);La Paz;Larecaja;Mapiri;;;;;-15.25001907;-68.16670513;"15°15'0.06""S";"68°10'0.13""W";862;Geo;Yungas;YUN;Camargo, 1988
+Trigonisca;Trigonisca (Trigonisca) pediculana ;(Fabricius, 1804);La Paz;Larecaja;Mapiri;;;;;-15.310739;-68.216949;"15°18'38.66""S";"68°13'1.01""W";636;Geo;Yungas;YUN;Camargo, 1988
+Trigonisca;Trigonisca (Trigonisca) pediculana ;(Fabricius, 1804);Beni ;General José Ballivian;Reyes;Mision Cavinas;1922;W.M. Mann;;-12.5607398;-66.9037799;"12°33'38.66""S";"66°54'13.6""W";158;Geo;Sudoeste de la Amazonía;BAIn;De Albuquerque & Camargo, 2007
+Trigonisca;Trigonisca (Trigonisca) vitrifrons ;Albuquerque & Camargo, 2007;Santa Cruz;Ñuflo de Chávez;Concepción;Lomerío (San Antonio de Lomerio);2018;Townsend;;-16.7682967;-61.8102462;"16°46'5.86""S";"61°48'36.88""W";395;Geo;Cerrado;CeChi;Townsend et al., 2021
+Trigonisca;Trigonisca (Trigonisca) vitrifrons ;Albuquerque & Camargo, 2007;Cochabamba;Carrasco;Chimore;Chimore;2021;Cespedes-Llave A.A.;IEB-LAB;-16.995864;-65.149222;"16°59'45.11""S";"65°8'57.19""W";246;Original;Sudoeste de la Amazonía;BAPr;CBC-IEB-USFX
